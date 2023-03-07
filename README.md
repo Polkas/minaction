@@ -1,0 +1,2 @@
+# minaction
+Minimal Github Action
